@@ -1,0 +1,20 @@
+h1{
+    
+  
+        display: inline-block;
+        margin: 0;
+        line-height: 1em;
+        font-family: Helvetica, Arial, sans-serif;
+        font-weight: bold;
+        font-size: 250%;
+        background: linear-gradient(to right, #1c87c9 50%, #8ebf42 50%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        
+}
+h5{
+    margin-top: 0px;
+    text-align:left;
+    
+}
