@@ -1,0 +1,101 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <link rel="stylesheet" href="webpage1.css">
+       <title>
+          The Indian Treks    
+       </title>
+        <style>
+.button {
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+   text-align: center;
+    
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+     
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+   
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+  .button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+       
+}
+  .button3:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+  .button4 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+      
+}
+
+.button4:hover {
+  background-color: #008CBA;
+  color: white;
+    
+}
+ .button5 {
+  background-color: white; 
+  color: black;                                      
+  border: 2px solid #4CAF50;
+  
+}
+  .button5:hover {
+  background-color: #4CAF50;
+  color: white;                             
+}    
+  img {
+  max-width: 500%;
+  height: auto;
+}
+            
+            
+            
+
+</style>                              
+    </head>
+    <body  >
+        
+        
+        <h1>The Indian Treks</h1>
+        <h5>India's largest & safest trekking organisation</h5> 
+          <a href="file:///D:/6th%20sem%20web%20project/webaboutpage.html" class="button button1">About Us</a>
+          <a href=" file:///D:/6th%20sem%20web%20project/webworkwithuspage.html" class="button button2">Work with Us</a>
+          <a href="file:///D:/6th%20sem%20web%20project/webFAQpage.html " class="button button3">FAQs</a>
+          <a href="file:///D:/6th%20sem%20web%20project/webloginpage.html " class="button button4">login</a>
+         <img src="image9.png" alt="Trulli" width="1000" height="700">
+        
+    </body>
+</html>     
